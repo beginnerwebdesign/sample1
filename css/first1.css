@@ -1,0 +1,34 @@
+h1{
+    color:red;
+    background-color: yellow;
+    font-variant: small-caps;
+    font-style: italic;
+    text-align: center;
+    line-height: 200%;
+
+}
+h2{
+    color:red;
+    background-color: #007777;
+    font-size:200%;
+}
+#Favourite
+{
+    color:#06ffaa;
+
+}
+footer{
+    color:#360034;
+    background-color: #666666;
+    font-style: oblique;
+    font-size:150%;
+
+}
+nav{
+    text-align: center;
+}
+a{
+    font-style: oblique;
+    font-weight: bold;
+
+}
